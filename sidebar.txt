@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[msi:home|Door43 (msi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-msi|d43-msi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-msi/archive/master.zip|d43-msi.zip]]
+
+**Recent Changes**
+{{changes>ns = msi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/msi|Ethnologue data]]
+
